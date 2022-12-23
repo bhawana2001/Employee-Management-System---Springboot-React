@@ -53,7 +53,7 @@ class CreateEmployeeComponent extends Component {
             <div>
                 <div className='container ' style={{ marginTop: '80px' }}>
                     <div className='row'>
-                        <div className='card col-md-6 offset-md-3 offset-md-3' style={{ background: 'Ivory' }}>
+                        <div className='card col-md-6 offset-md-3 offset-md-3' style={{ background: '#ccf2ff' }}>
                             <h3 className='text-center' style={{ marginTop: '10px' }}>Add Employee</h3>
                             <div className='card-body'>
                                 <form>

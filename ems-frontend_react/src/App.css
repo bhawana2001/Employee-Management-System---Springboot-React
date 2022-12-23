@@ -48,3 +48,16 @@
   color: white;
   overflow: auto;
 }
+
+.body{
+  background:url("/public/background_image.jpg");
+  background-size:1600px 700px;
+  background-repeat: no-repeat;
+}
+
+.table_border{
+  border-width: 5px;
+  border-color:darkgoldenrod;
+  border-style: hidden;
+  
+}

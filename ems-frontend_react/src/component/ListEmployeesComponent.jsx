@@ -37,13 +37,13 @@ class ListEmployeesComponent extends Component {
 
     render() {
         return (
-            <div>
+                <div>
                 <h2 className='text-center' style={{}}>Employees List</h2>
                 <div className='row'>
                     <button className='btn btn-primary' onClick={this.addEmployee} >Add Employee</button>
                 </div>
                 <div className='row' style={{ marginTop: '20px' }}>
-                    <table className="table table-striped table-bordered">
+                    <table className="table table-striped table-bordered table_border" >
                         <thead>
                             <tr>
                                 <th>Employee First Name</th>
